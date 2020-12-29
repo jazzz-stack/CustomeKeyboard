@@ -143,8 +143,15 @@ const styles = StyleSheet.create({
 })
 export default CustomKeyboard;
 ```
-### Use of CustomeKeyboard ###
-*Import CustomeKeyboard 
+### How to Use CustomeKeyboard ###
+
+* Just import CustomeKeyboard from components directory and pass the following props
+``
+      isVisible={this.state.isEnable}
+      onPress={() => this.onPressEnter()}
+      onChangeText={(otp) => this.setOtp(otp)}
+      onPressCancel={() => this.onPressCancel()}
+``
 
 import CustomKeyboard from '../components/CustomKeyboard'
 
