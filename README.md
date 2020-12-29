@@ -1,6 +1,6 @@
 # OTP Verification Custome keyboard and TextInput #
 
-![Optional Text](/home/infra/Pictures/otp1.png)
+![Optional Text](https://github.com/jaizzz/CustomeKeyboard/blob/main/customkeyboardforotp/screenshots/otp1.png)
 
 Just copy and past both file in your fevourite IDE  .
 
