@@ -1,9 +1,8 @@
 # OTP Verification Custome keyboard and TextInput #
 
-![Optional Text](/home/infra/Pictures/otp1.png)
+![Optional Text](https://bitbucket.org/verma12345/customkeyboardforotp/src/master/screenshots/otp1.png)
 
 Just copy and past both file in your fevourite IDE  .
-
 
 * Creacte a components directory and copy past CustomKeyboard.js file in the same directory.
 * components/CustomKeyboard.js
